@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devesh Tomar.
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Competative Coding.
+- 🌱 I’m currently learning Competitive Coding.
 - 💞️ I’m looking to collaborate on Machine Learning project.
 - 📫 How to reach me deveshtomar09@gmail.com
 -->
